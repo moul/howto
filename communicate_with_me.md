@@ -9,9 +9,10 @@ making my life easier to help you faster.
 
 I like to communicate using these media, by order of preference:
 
-1. Email
-2. Slack
-3. Telegram / Facebook Messenger
-4. iMessage / SMS
-5. Direct human contact (in person / by phone)
-6. [Twitter](https://twitter.com/moul) / [IRC](https://www.irccloud.com/invite?channel=moul&hostname=irc.freenode.net&port=6697&ssl=1)
+1. Email <img src="https://github.com/moul/howto/raw/master/assets/mail.png" height="24" />
+2. Slack (**@moul** or **@manfred**)
+3. Telegram (**@moul42**) / Facebook Messenger (**@manfredtouron**)
+4. Direct human contact (in person)
+5. [Twitter](https://twitter.com/moul) / [IRC](https://www.irccloud.com/invite?channel=moul&hostname=irc.freenode.net&port=6697&ssl=1)
+6. iMessage / SMS
+7. Phone call
