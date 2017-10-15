@@ -12,4 +12,4 @@ I like to communicate using these media, by order of preference:
 1. Email <img src="https://github.com/moul/howto/raw/master/assets/mail.png" height="24" />
 2. Messaging: Slack (**@moul** or **@manfred**) / Telegram (**@moul42**) / Facebook Messenger (**@manfredtouron**), iMessage / SMS / [Twitter](https://twitter.com/moul) / [IRC](https://www.irccloud.com/invite?channel=moul&hostname=irc.freenode.net&port=6697&ssl=1)
 3. Direct human contact (in person) (pick a date on [calendly](https://calendly.com/moul))
-4. Phone call / Visio ([calendly](pick a date on [calendly](https://calendly.com/moul))) 
+4. Phone call / Visio (pick a date on [calendly](https://calendly.com/moul)))
